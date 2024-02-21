@@ -32,10 +32,14 @@
 ![image](https://github.com/jmlee99/KT_aivle/assets/98507134/2592429c-4363-48de-b00a-dbf500360401)
 
 
-
-
 > 위의 사진을 보면 마지막 merge에서 4번째는 둘 다 수정 했기 때문에 빈칸으로 남겨두고 사용자가 바꿀 수 있게 해준다.
+
 > Branch는 아래와 같다.
 ![image](https://github.com/jmlee99/KT_aivle/assets/98507134/dc264119-b5f2-4603-b93b-cdf2b26b9e4f)
 
 > 또한, conflict가 발생하면 VSC에서는 전문 Editer를 사용하여 conflict부분을 수정 가능하다.
+
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/e695d203-ee11-4026-a950-6829ed030823)
+
+> 버전을 백업하는 방법은 github를 사용하면 된다.
