@@ -42,4 +42,14 @@
 
 ![image](https://github.com/jmlee99/KT_aivle/assets/98507134/e695d203-ee11-4026-a950-6829ed030823)
 
-> 버전을 백업하는 방법은 github를 사용하면 된다.
+> 버전을 백업하는 방법은 github를 사용하면 된다. 마지막에 어디까지 백업되었는지 확인(사진상 맨위의 origin)
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/d8fe70de-602f-444c-b4ee-0186aef6c614)
+
+> 이렇게 되면 L2는 L1보다 1개의 Commit가 앞선다는 뜻은 아직 L1까지만 백업되고 L2는 백업이 되지 않았다는 뜻이다.
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/8c0d711b-7bbc-4218-945f-560cec51ecc1)
+
+> 여기서 Push가 이루어지면 다음과 같이 표시된다.
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/fe35ca22-9369-4dd2-abe7-0abae1633305)
