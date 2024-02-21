@@ -15,3 +15,27 @@
 
 - **checkout, reset마다 Commit id를 기억하는건 비효울적이다. ==> Creative Branch**
 > 이제 Branch명이 Commit id를 대신한다.
+> Branch가 두개 이상이 되었을때 부턴 Branch가 나눠지기 때문에 Branch log를 잘 보고 코드를 작성해야한다.
+> 실험적인 코드는 Branch에 main code는 main에 짜는 것이다.
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/97bdd48e-99ab-42b4-9382-9f35c98fd93f)
+
+
+- **병합(main이 Branch를 병합할꺼냐 / Branch가 main을 병합할꺼냐 방향을 잘 선택 중요)**
+> 이렇게 병합하게 되면 parents는 main과 Branch둘 다 parents다.
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/a3049579-2878-4d52-9a51-165b68144b2f)
+
+
+> 하나의 파일을 동시에 수정할 떈 conflict발생
+
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/2592429c-4363-48de-b00a-dbf500360401)
+
+
+
+
+> 위의 사진을 보면 마지막 merge에서 4번째는 둘 다 수정 했기 때문에 빈칸으로 남겨두고 사용자가 바꿀 수 있게 해준다.
+> Branch는 아래와 같다.
+![image](https://github.com/jmlee99/KT_aivle/assets/98507134/dc264119-b5f2-4603-b93b-cdf2b26b9e4f)
+
+> 또한, conflict가 발생하면 VSC에서는 전문 Editer를 사용하여 conflict부분을 수정 가능하다.
