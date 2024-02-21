@@ -10,3 +10,8 @@
 - **시간상 HEAD가 Ver1을 Branch로 가리키고 Ver2에 코드를 수정했다면 Ver2에 있던 것은 없어진다.**
 > 하지만, Ver2의 Commit id를 알고 있다면
 > git reset -- hard {Commit id}로 Ver2를 HEAD가 가리키는 main으로 바꾸면 돌아온다.
+> GIT는 절대 버전을 없애지 않는다. 복사해서 붙여놓고 Commit id 이름만 바꿀 뿐이다.
+> Commit id를 잊어버린 경우 [수업](https://opentutorials.org/course/2708/15304) 확인
+
+- **checkout, reset마다 Commit id를 기억하는건 비효울적이다. ==> Creative Branch**
+> 이제 Branch명이 Commit id를 대신한다.
