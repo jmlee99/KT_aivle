@@ -55,8 +55,10 @@
 ![image](https://github.com/jmlee99/KT_aivle/assets/98507134/fe35ca22-9369-4dd2-abe7-0abae1633305)
 
 
+**협업**
 
-# 협업
+---
+
 - **이때 사용하는 것이 Clone이다.**
 - 새 에디터에서 Clone Repository ==> 원격 Repository의 주소를 추가한다.
 - 작업이 끝나면 다시 Push를 해서 origin을 현재 작업한 작업물까지 백업시킨다.
